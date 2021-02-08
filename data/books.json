@@ -1,0 +1,42 @@
+[
+    {
+        "id_book": 1,
+        "isbn": "139890842320",
+        "judul": "Belajar Express js",
+        "sinopsi": "membangun aplikasi dengan express js",
+        "penulis": "Helmi Agustiawan",
+        "genre": "Pendidikan, Programming"
+    },
+    {
+        "id_book": 2,
+        "isbn": "1398904342320",
+        "judul": "Belajar Node JS",
+        "sinopsi": "membangun aplikasi dengan node js",
+        "penulis": "Helmi Agustiawan",
+        "genre": "Pendidikan, Programming"
+    },
+    {
+        "id_book": 3,
+        "isbn": "132900842320",
+        "judul": "Memasak Kue PIE",
+        "sinopsi": "Membuat kue pie yang enak",
+        "penulis": "Anggie Febi",
+        "genre": "Kuliner"
+    },
+    {
+        "id_book": 4,
+        "isbn": "13989009989320",
+        "judul": "Memasak Kue TAR",
+        "sinopsi": "Membuat kue tar yang enak",
+        "penulis": "Anggie Febi",
+        "genre": "Kuliner"
+    },
+    {
+        "id_book": 5,
+        "isbn": "139232123320",
+        "judul": "Belajar Memasak",
+        "sinopsi": "belajar memasak dari ahli dengan kumpulan resep hingga 20+",
+        "penulis": "Anggie Febi",
+        "genre": "Pendidikan, Kuliner"
+    }
+]
